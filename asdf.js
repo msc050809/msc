@@ -1,1 +1,5 @@
-console.log("HEoower")
+function main(text){
+  console.log(text):
+}
+
+main("Hello World")
