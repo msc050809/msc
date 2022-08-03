@@ -1,5 +1,5 @@
-let boolean=true;
-let null=undefined;//
+let boolean=true;//boolean -- true or false
+let null=undefined;//undefined
 let undefined= undefined;
 let num=3;//number
 let bigint=148496n;//bigint
