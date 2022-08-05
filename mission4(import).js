@@ -1,2 +1,2 @@
-var greetFromJS= require('./some.js');
-greetFromJS()
+let greetFromJS= require('./mission4(export).js');
+greetFromJS();
